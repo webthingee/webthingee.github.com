@@ -1,0 +1,20 @@
+---
+layout: default
+title: Blogs
+---
+<section class="content">
+
+<ul class="entries">
+  {% for post in site.posts %}
+      <!-- Feed Entry -->
+      <div class="row">
+        <div class="two columns mobile-one"><img src="{{ post.image }}" /></div>
+        <div class="ten columns">
+          <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+        </div>
+      </div>
+      <!-- End Feed Entry -->
+  {% endfor %}
+</ul>
+
+</section>
