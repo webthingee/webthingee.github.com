@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Sean Lange, Website Beautification Specialist </title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div id="main">
+    <header>
+      <h1> Sean Lange, a.k.a. webthingee </h1>
+    <header>
+<!--     <nav role="navigation">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/portfolio/">Blog</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav> -->
+    {{ content }}
+    <footer>
+      <p>@copy; Sean Lange - webthingee 2013 | All Rights Reserved. </p>
+    </footer>
+  </div>
+</body>
+</html>
