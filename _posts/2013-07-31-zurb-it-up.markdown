@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Zurb It Up!"
+date:   2013-07-31 06:59:02
+categories: jekyll update zurb
+---
+
+Just got Zurb installed on this blog... still playing...
