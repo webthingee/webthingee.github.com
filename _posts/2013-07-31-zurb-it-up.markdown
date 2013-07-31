@@ -1,8 +1,10 @@
 ---
 layout: post
+image: https://sphotos-a.xx.fbcdn.net/hphotos-frc1/p480x480/417864_10151349665586160_488729014_n.png
 title:  "Zurb It Up!"
 date:   2013-07-31 06:59:02
 categories: jekyll update zurb
 ---
 
-Just got Zurb installed on this blog... still playing...
+<span class="float-left">![Zurb]({{ page.image }})</span> Just got Zurb installed on this blog... still playing...
+Foundation is developed in Sass, which is powerful CSS pre-processor that helps you write cleaner, more organized, CSS that you can more easily maintain over time without the typical headaches of vanilla CSS. On top of our minimal styling, we've written powerful Javascript plugins that will make useful interactions easier to implement across screen sizes.

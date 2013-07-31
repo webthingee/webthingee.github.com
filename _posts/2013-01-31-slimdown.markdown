@@ -1,0 +1,9 @@
+---
+layout: post
+image: http://seanlange.com/f/styles/medium/public/75546_4845403768704_251241910_n.jpg
+title:  "Slimdown"
+date:   2013-01-31 06:59:02
+categories: personal update
+---
+
+<span class="float-right">![SRL]({{ page.image }})</span> Today I weighed in 90lbs lighter than when I started working my butt off 'literally'! (it's been 7 months, and 23 days). On the left is me in November of 2010, and on the right is me December 2012. I am looking forward, and planning to work hard to hit my my goal which will be a total of 115 lbs early next year. In addition to the weight loss... Thanks to my trainer Eric Namayan I have muscles and strength that I never I had and ever expected to find.
