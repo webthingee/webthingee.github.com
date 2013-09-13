@@ -3,12 +3,26 @@ layout: default
 title: Sean Lange Blog
 ---
 
-<div id="home">
-  <h1>Blog Posts</h1>
+<div id="home" class="">
   <!-- Using only the small-block-grid -->
-  <ul class="small-block-grid-4 posts">
+<!--   <ul class="small-block-grid-4 posts">
     {% for post in site.posts %}
       <li><span><a href="{{ post.url }}"><img src="{{ post.image }}" /><a> <br/> <a href="{{ post.url }}">{{ post.title }}</a> <br/> &raquo; {{ post.date | date_to_string }}</span></li>
+    {% endfor %}
+  </ul>
+</div> -->
+  <!-- <h1>Posts</h1> -->
+  <!-- Using only the small-block-grid -->
+  <ul class="grid cs-style-1 small-block-grid-4 posts">
+    {% for post in site.posts %}
+      <li>
+        <figure>
+                      <span><a href="{{ post.url }}">{{ post.title }}</a> <br/> &raquo; {{ post.date | date_to_string }}</span>
+          <figcaption>
+           <a href="{{ post.url }}"><img src="{{ post.image }}"></a>
+          </figcaption>
+        </figire>
+      </li>
     {% endfor %}
   </ul>
 </div>

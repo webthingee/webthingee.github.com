@@ -1,0 +1,14 @@
+---
+layout: post
+image: https://lh4.googleusercontent.com/-W9BKpLdA1nU/Uhdph8AME1I/AAAAAAABBIM/ZMzT9-Ct9D8/w506-h295/yeoman-backtothefuture-export2.png
+title:  "AngularJS YoGuBo"
+date:   2013-09-12 06:59:02
+categories: angularjs bower grunt yeoman zurb
+---
+
+<span class="float-left">![Yeoman]({{ page.image }})</span>
+Quick Spinning Up  an AngularJS Development Starting Point
+
+Leveraging Yeoman, Grunt, and Bower Sean will demo spinning up an AngularJS starting point that provides the resources and file structure for rapid prototyping and development.  Additionally, demonstrating a repo that he has been using to quickly spin up an AngularJS / Foundation / Sass starting point.
+
+presentation: http://bluefysh.com/yogubo/index.html
